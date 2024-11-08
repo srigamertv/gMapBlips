@@ -1,5 +1,5 @@
 # gMapBlips
-- Um criador de BLIPS simples para FiveM
+- Um criador de BLIPS simples Com permissão para FiveM
 
 **Video Preview:**
 
