@@ -1,6 +1,6 @@
 # gMapBlips
 - Um criador de BLIPS simples Com permissão para FiveM
-- Framwork: VRP/VRPex
+- Framework: VRP/VRPex
 
 **Video Preview:**
 
